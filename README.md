@@ -2,7 +2,7 @@
 ## <a href="https://www.eventedmind.com/classes/introduction-to-ddp-01cfb402" target="_blank">Class: Introduction to DDP</a>
 
 **Meteor**<br>
-**Core**
+****
 
 The Distributed Data Protocol (DDP) is Meteor's real-time wire protocol based on
 simple JSON messages. First you'll learn how a stateful protocol like DDP
